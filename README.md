@@ -10,4 +10,4 @@
 
 ## To Do ...
 [Kotlin](http://kotlinlang.org/)에 있는 **READ.ME**들을 국문으로
-> 일단은 번역하고 ... 해야할게 또 뭐가 있죠
+> [Kotlin/spec-doc](https://github.com/18-1-SKKU-OSS/kotlin/tree/master/spec-docs) 
