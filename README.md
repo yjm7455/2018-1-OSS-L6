@@ -12,5 +12,7 @@
 
 ## OUR WORKS
 * [Kotlin Official](http://kotlinlang.org/)  
-* [Kotlin Github](https://github.com/JetBrains/kotlin)에 있는 다양한 **READ.ME**들을 국문으로 번역
+* [Kotlin Official Github](https://github.com/JetBrains/kotlin)에 있는 다양한 **READ.ME**들을 국문으로 번역
 > * [Kotlin/Spec-docs](https://github.com/18-1-SKKU-OSS/kotlin/tree/master/spec-docs/)
+> * Other Documents...
+### 번역 작업물은 [Kotlin](https://github.com/18-1-SKKU-OSS/kotlin)에 등록 (접미사(KR) 추가)
