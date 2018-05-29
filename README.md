@@ -12,5 +12,5 @@
 
 ## OUR WORKS
 * [Kotlin Official](http://kotlinlang.org/)  
-* [Kotlin Github](https://github.com/JetBrains/kotlin)에 있는 다양한 **READ.ME**들을 국문으로
-> 각자 번역해서 repository에 올려두기?
+* [Kotlin Github](https://github.com/JetBrains/kotlin)에 있는 다양한 **READ.ME**들을 국문으로 번역
+> * [Kotlin/Spec-docs](https://github.com/18-1-SKKU-OSS/kotlin/tree/master/spec-docs/)
