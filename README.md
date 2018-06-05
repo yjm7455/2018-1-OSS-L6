@@ -1,8 +1,8 @@
 # 2018-1-OSS-L6
 
-[Github Page](https://18-1-skku-oss.github.io/2018-1-OSS-L6/)
-[Github Wiki](https://github.com/18-1-SKKU-OSS/2018-1-OSS-L6/wiki)
-[Project Repo](https://github.com/18-1-SKKU-OSS/kotlin)
+#[Github Page](https://18-1-skku-oss.github.io/2018-1-OSS-L6/)
+#[Github Wiki](https://github.com/18-1-SKKU-OSS/2018-1-OSS-L6/wiki)
+#[Project Repo](https://github.com/18-1-SKKU-OSS/kotlin)
 
 ![Alttext](https://www.redduckpost.com/wp-content/uploads/2016/08/c09-885x664.jpg)
 
