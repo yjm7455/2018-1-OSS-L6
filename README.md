@@ -1,8 +1,9 @@
 # 2018-1-OSS-L6
-강아지 시-바를 사랑하는 사람들.  
 
-https://18-1-skku-oss.github.io/2018-1-OSS-L6/
-  
+[Github Page](https://18-1-skku-oss.github.io/2018-1-OSS-L6/)
+[Github Wiki](https://github.com/18-1-SKKU-OSS/2018-1-OSS-L6/wiki)
+[Project Repo](https://github.com/18-1-SKKU-OSS/kotlin)
+
 ![Alttext](https://www.redduckpost.com/wp-content/uploads/2016/08/c09-885x664.jpg)
 
 ## MEMBER
@@ -13,7 +14,12 @@ https://18-1-skku-oss.github.io/2018-1-OSS-L6/
 
 ## OUR WORKS
 * [Kotlin Official](http://kotlinlang.org/)  
-* [Kotlin Official Github](https://github.com/JetBrains/kotlin)에 있는 다양한 **READ.ME**들을 국문으로 번역
+* [Kotlin Official Github](https://github.com/JetBrains/kotlin)에 있는 다양한 **READ.ME**들을 국문으로 번역 (**Read.Me(KR)**)
+> * [Kotlin(root)](https://github.com/18-1-SKKU-OSS/kotlin)
+> * [Kotlin/libraries/examples](https://github.com/18-1-SKKU-OSS/kotlin/tree/master/libraries/examples/)
 > * [Kotlin/Spec-docs](https://github.com/18-1-SKKU-OSS/kotlin/tree/master/spec-docs/)
+> * [Kotlin/idea-runner](https://github.com/18-1-SKKU-OSS/kotlin/tree/master/idea-runner/)
+> * [Kotlin/grammar](https://github.com/18-1-SKKU-OSS/kotlin/tree/master/grammar)
+> * [Kotlin/eval4j](https://github.com/18-1-SKKU-OSS/kotlin/tree/master/eval4j)
 > * Other Documents...
 ### 번역 작업물은 [Kotlin](https://github.com/18-1-SKKU-OSS/kotlin)에 등록 (접미사(KR) 추가)
