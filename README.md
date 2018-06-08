@@ -23,3 +23,4 @@
 > * [Kotlin/eval4j](https://github.com/18-1-SKKU-OSS/kotlin/tree/master/eval4j)
 > * Other Documents...
 ### 번역 작업물은 [Kotlin](https://github.com/18-1-SKKU-OSS/kotlin)에 등록 (접미사(KR) 추가)
+> 각 멤버의 작업 [Wiki](https://github.com/18-1-SKKU-OSS/2018-1-OSS-L6/wiki) 에 기술
