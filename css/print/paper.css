@@ -64,12 +64,12 @@
 		letter-spacing: normal;
 	}
 	/* Need to reduce the size of the fonts for printing */
-	h1 { font-size: 28pt !important;  }
-	h2 { font-size: 24pt !important; }
-	h3 { font-size: 22pt !important; }
-	h4 { font-size: 22pt !important; font-variant: small-caps; }
-	h5 { font-size: 21pt !important; }
-	h6 { font-size: 20pt !important; font-style: italic; }
+	h1 { font-size: 15pt !important;  }
+	h2 { font-size: 15pt !important; }
+	h3 { font-size: 15pt !important; }
+	h4 { font-size: 15pt !important; font-variant: small-caps; }
+	h5 { font-size: 15pt !important; }
+	h6 { font-size: 15pt !important; font-style: italic; }
 
 	/* SECTION 5: Make hyperlinks more usable.
 	   Ensure links are underlined, and consider appending
