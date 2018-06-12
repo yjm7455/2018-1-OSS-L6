@@ -9,10 +9,12 @@ Related | Links
 
 
 ## MEMBER
-**곽재원** 2017310288 tsfo1489@gmail.com  
-**배준휘** 2016313631 bae9750@gmail.com  
-**장지호** 2017312482 zyoa@skku.edu  
-**정태우** 2017313120 onow7353@gmail.com  
+NAME | ID | EMAIL
+----------|------------|------------------
+**곽재원** | 2017310288 | tsfo1489@gmail.com  
+**배준휘** | 2016313631 | bae9750@gmail.com  
+**장지호** | 2017312482 | zyoa@skku.edu  
+**정태우** | 2017313120 | onow7353@gmail.com  
 
 
 ## OUR WORKS
