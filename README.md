@@ -1,9 +1,11 @@
 # 2018-1-OSS-L6
 
-|Related Links|       |
-|------------ | -------------|
-|[**PAGE**](https://18-1-skku-oss.github.io/2018-1-OSS-L6/) | [**WIKI**](https://github.com/18-1-SKKU-OSS/2018-1-OSS-L6/wiki)|
-|[**PROJECT**](https://github.com/18-1-SKKU-OSS/kotlin) | [**ISSUE**](https://github.com/18-1-SKKU-OSS/2018-1-OSS-L6/issues)|
+| Related Links  |
+| :----: |
+| [**PAGE**](https://18-1-skku-oss.github.io/2018-1-OSS-L6/) |
+| [**WIKI**](https://github.com/18-1-SKKU-OSS/2018-1-OSS-L6/wiki)    |
+| [**PROJECT**](https://github.com/18-1-SKKU-OSS/kotlin)     |
+| [**ISSUE**](https://github.com/18-1-SKKU-OSS/2018-1-OSS-L6/issues) |
 
 ![Alttext](https://www.redduckpost.com/wp-content/uploads/2016/08/c09-885x664.jpg)
 
